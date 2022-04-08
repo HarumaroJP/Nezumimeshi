@@ -14,4 +14,4 @@
 色々な種類のおにぎりを知ることができます。
 ここでおにぎりのポイントも確認することができます。
 
-[クリックして遊ぶ](harumarojp.github.io/nezumimeshi/)
+[クリックして遊ぶ](https://harumarojp.github.io/Nezumimeshi/)
